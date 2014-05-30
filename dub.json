@@ -1,0 +1,10 @@
+{
+	"name": "libcelt",
+	"description": "D bindings for libcelt.",
+        "license": "Boost",
+	"authors": ["Scott Wang"],
+	"dependencies": {
+	},
+        "libs": ["celt0"],
+        "targetType": "sourceLibrary"
+}
